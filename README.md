@@ -1,4 +1,4 @@
-![logo](https://github.com/krrahul24/krrahul24/blob/main/Brown%20Wood%20Minimalist%20Profile%20LinkedIn%20Banner.jpg)
+![logo]([https://github.com/krrahul24/krrahul24/blob/main/Brown%20Wood%20Minimalist%20Profile%20LinkedIn%20Banner.jpg](https://github.com/krrahul24/krrahul24/blob/main/image.jpg))
 <h1 align="center">Hi 👋, I'm Rahul Kumar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
