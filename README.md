@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=krrahul24&label=Profile%20views&color=0e75b6&style=flat" alt="krrahul24" /> </p>
 
-- 🔭 My Project [Aarohi - A virtual Assistant ](https://aarohi-virtual-assistant.netlify.app/)
+- 🔭 My Portfolio :- https://krrahul24.github.io/rahul-portfolio/
 
 - 📫 How to reach me **rahulkumarssm332@gmail.com**
 
